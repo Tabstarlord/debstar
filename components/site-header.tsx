@@ -20,7 +20,7 @@ export function SiteHeader() {
               alt="Chukwuemeka Henry Izukanne logo"
               width={44}
               height={44}
-              className="h-full w-full object-contain"
+              className="h-full w-full object-contain rounded-full"
               priority
             />
           </div>
