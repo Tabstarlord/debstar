@@ -1,0 +1,70 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="121" y1="123" x2="1079" y2="786" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#EFF6FF"/>
+      <stop offset="0.56" stop-color="#D7E7FF"/>
+      <stop offset="1" stop-color="#6FA5E9"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="181" y1="136" x2="934" y2="736" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF" stop-opacity="0.94"/>
+      <stop offset="1" stop-color="#EDF4FF" stop-opacity="0.94"/>
+    </linearGradient>
+    <filter id="shadow" x="145" y="112" width="922" height="714" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="24" stdDeviation="28" flood-color="#507AAA" flood-opacity="0.18"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <circle cx="1020" cy="170" r="114" fill="#FFFFFF" fill-opacity="0.4"/>
+  <circle cx="190" cy="734" r="118" fill="#FFFFFF" fill-opacity="0.34"/>
+
+  <g filter="url(#shadow)">
+    <rect x="170" y="126" width="860" height="660" rx="44" fill="url(#panel)"/>
+    <rect x="170" y="126" width="860" height="660" rx="44" stroke="#FFFFFF" stroke-width="2"/>
+  </g>
+
+  <circle cx="224" cy="176" r="8" fill="#7CB0F0"/>
+  <circle cx="252" cy="176" r="8" fill="#9FC6F6"/>
+  <circle cx="280" cy="176" r="8" fill="#D3E6FF"/>
+  <text x="218" y="246" fill="#0F172A" font-family="Arial, sans-serif" font-size="52" font-weight="700">Atlas CRM</text>
+  <text x="218" y="287" fill="#475569" font-family="Arial, sans-serif" font-size="24">Pipeline visibility for revenue teams and customer success</text>
+
+  <rect x="218" y="340" width="250" height="130" rx="30" fill="#F8FBFF"/>
+  <rect x="218" y="340" width="250" height="130" rx="30" stroke="#D5E7FF" stroke-width="2"/>
+  <text x="248" y="386" fill="#64748B" font-family="Arial, sans-serif" font-size="18">New Leads</text>
+  <text x="248" y="439" fill="#0F172A" font-family="Arial, sans-serif" font-size="42" font-weight="700">324</text>
+
+  <rect x="489" y="340" width="250" height="130" rx="30" fill="#F8FBFF"/>
+  <rect x="489" y="340" width="250" height="130" rx="30" stroke="#D5E7FF" stroke-width="2"/>
+  <text x="519" y="386" fill="#64748B" font-family="Arial, sans-serif" font-size="18">Qualified</text>
+  <text x="519" y="439" fill="#0F172A" font-family="Arial, sans-serif" font-size="42" font-weight="700">87</text>
+
+  <rect x="760" y="340" width="214" height="130" rx="30" fill="#0F172A"/>
+  <text x="790" y="386" fill="#B7D2FF" font-family="Arial, sans-serif" font-size="18">Forecast</text>
+  <text x="790" y="439" fill="#FFFFFF" font-family="Arial, sans-serif" font-size="42" font-weight="700">$1.2M</text>
+
+  <rect x="218" y="503" width="462" height="236" rx="34" fill="#F8FBFF"/>
+  <rect x="218" y="503" width="462" height="236" rx="34" stroke="#D5E7FF" stroke-width="2"/>
+  <text x="250" y="549" fill="#0F172A" font-family="Arial, sans-serif" font-size="22">Sales Pipeline</text>
+  <rect x="250" y="579" width="86" height="128" rx="24" fill="#DCEBFF"/>
+  <rect x="352" y="607" width="86" height="100" rx="24" fill="#BBD5FF"/>
+  <rect x="454" y="560" width="86" height="147" rx="24" fill="#84B5FF"/>
+  <rect x="556" y="625" width="92" height="82" rx="24" fill="#0F172A"/>
+  <text x="268" y="732" fill="#475569" font-family="Arial, sans-serif" font-size="18">Prospect</text>
+  <text x="367" y="732" fill="#475569" font-family="Arial, sans-serif" font-size="18">Demo</text>
+  <text x="482" y="732" fill="#475569" font-family="Arial, sans-serif" font-size="18">Proposal</text>
+  <text x="580" y="732" fill="#475569" font-family="Arial, sans-serif" font-size="18">Won</text>
+
+  <rect x="706" y="503" width="268" height="236" rx="34" fill="#F8FBFF"/>
+  <rect x="706" y="503" width="268" height="236" rx="34" stroke="#D5E7FF" stroke-width="2"/>
+  <text x="738" y="549" fill="#0F172A" font-family="Arial, sans-serif" font-size="22">Key Accounts</text>
+  <circle cx="764" cy="603" r="18" fill="#9FC6F6"/>
+  <rect x="794" y="589" width="138" height="12" rx="6" fill="#AFCBF5"/>
+  <rect x="794" y="614" width="112" height="10" rx="5" fill="#D2E3FB"/>
+  <circle cx="764" cy="658" r="18" fill="#84B5FF"/>
+  <rect x="794" y="644" width="132" height="12" rx="6" fill="#AFCBF5"/>
+  <rect x="794" y="669" width="96" height="10" rx="5" fill="#D2E3FB"/>
+  <circle cx="764" cy="713" r="18" fill="#0F172A"/>
+  <rect x="794" y="699" width="118" height="12" rx="6" fill="#AFCBF5"/>
+  <rect x="794" y="724" width="86" height="10" rx="5" fill="#D2E3FB"/>
+</svg>

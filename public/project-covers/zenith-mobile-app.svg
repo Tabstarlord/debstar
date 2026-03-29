@@ -1,0 +1,62 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="125" y1="117" x2="1073" y2="793" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F4F7EE"/>
+      <stop offset="0.48" stop-color="#E1E8D3"/>
+      <stop offset="1" stop-color="#95B685"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="183" y1="124" x2="942" y2="745" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FAFCF6" stop-opacity="0.96"/>
+      <stop offset="1" stop-color="#EEF3E3" stop-opacity="0.94"/>
+    </linearGradient>
+    <linearGradient id="phone" x1="723" y1="281" x2="926" y2="677" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A7C595"/>
+      <stop offset="1" stop-color="#68885A"/>
+    </linearGradient>
+    <filter id="shadow" x="144" y="111" width="923" height="716" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="22" stdDeviation="28" flood-color="#61795A" flood-opacity="0.2"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <circle cx="1006" cy="152" r="124" fill="#FFFFFF" fill-opacity="0.42"/>
+  <circle cx="174" cy="742" r="120" fill="#FFFFFF" fill-opacity="0.32"/>
+
+  <g filter="url(#shadow)">
+    <rect x="170" y="126" width="860" height="662" rx="44" fill="url(#panel)"/>
+    <rect x="170" y="126" width="860" height="662" rx="44" stroke="#FFFFFF" stroke-width="2"/>
+  </g>
+
+  <circle cx="224" cy="176" r="8" fill="#95B685"/>
+  <circle cx="252" cy="176" r="8" fill="#B7D0AA"/>
+  <circle cx="280" cy="176" r="8" fill="#E6EFDB"/>
+  <text x="218" y="246" fill="#253023" font-family="Arial, sans-serif" font-size="52" font-weight="700">Zenith</text>
+  <text x="218" y="287" fill="#556453" font-family="Arial, sans-serif" font-size="24">Mindful mobile flows for habits, routines, and wellness</text>
+
+  <rect x="218" y="335" width="344" height="382" rx="34" fill="#F8FBF3"/>
+  <rect x="218" y="335" width="344" height="382" rx="34" stroke="#D9E5CD" stroke-width="2"/>
+  <text x="250" y="381" fill="#253023" font-family="Arial, sans-serif" font-size="22">Daily Calm Score</text>
+  <circle cx="390" cy="499" r="96" stroke="#D5E4C8" stroke-width="28"/>
+  <path d="M390 403C419 403 446 416 464 438C483 460 490 489 486 517C482 545 467 570 444 587" stroke="#7BA06A" stroke-width="28" stroke-linecap="round"/>
+  <text x="344" y="511" fill="#253023" font-family="Arial, sans-serif" font-size="44" font-weight="700">82%</text>
+  <text x="322" y="551" fill="#70816A" font-family="Arial, sans-serif" font-size="20">Focused and steady</text>
+  <rect x="250" y="621" width="280" height="50" rx="25" fill="#A7C595"/>
+  <text x="316" y="653" fill="#253023" font-family="Arial, sans-serif" font-size="22" font-weight="700">Begin evening reset</text>
+
+  <rect x="612" y="315" width="160" height="348" rx="42" fill="#F8FBF3"/>
+  <rect x="626" y="344" width="132" height="290" rx="32" fill="#E8F0DD"/>
+  <rect x="650" y="375" width="84" height="18" rx="9" fill="#D1DFC0"/>
+  <rect x="648" y="415" width="88" height="88" rx="28" fill="#FFFFFF"/>
+  <path d="M670 458C678 438 706 438 714 458C720 474 710 492 692 496C674 492 664 474 670 458Z" fill="#91B381"/>
+  <rect x="648" y="530" width="88" height="18" rx="9" fill="#D1DFC0"/>
+  <rect x="648" y="562" width="88" height="18" rx="9" fill="#D1DFC0"/>
+
+  <rect x="798" y="271" width="190" height="410" rx="48" fill="url(#phone)"/>
+  <rect x="816" y="304" width="154" height="344" rx="38" fill="#F8FBF3"/>
+  <rect x="857" y="323" width="72" height="10" rx="5" fill="#D1DFC0"/>
+  <circle cx="893" cy="427" r="70" fill="#E2ECD4"/>
+  <path d="M858 427C858 408 874 392 893 392C912 392 928 408 928 427C928 446 912 462 893 462C874 462 858 446 858 427Z" fill="#A7C595"/>
+  <rect x="842" y="531" width="102" height="18" rx="9" fill="#D1DFC0"/>
+  <rect x="829" y="563" width="128" height="18" rx="9" fill="#D1DFC0"/>
+  <rect x="842" y="598" width="102" height="18" rx="9" fill="#D1DFC0"/>
+</svg>
