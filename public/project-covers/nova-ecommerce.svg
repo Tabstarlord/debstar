@@ -1,0 +1,68 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="116" y1="123" x2="1067" y2="792" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8F1E6"/>
+      <stop offset="0.58" stop-color="#E7D7C4"/>
+      <stop offset="1" stop-color="#B88E6B"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="204" y1="134" x2="944" y2="734" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFF8EF" stop-opacity="0.98"/>
+      <stop offset="1" stop-color="#F6E8D4" stop-opacity="0.92"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="792" y1="321" x2="966" y2="541" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#604230"/>
+      <stop offset="1" stop-color="#C89B73"/>
+    </linearGradient>
+    <filter id="shadow" x="145" y="109" width="937" height="716" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="24" stdDeviation="28" flood-color="#89684A" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="900" fill="url(#bg)"/>
+  <circle cx="980" cy="152" r="126" fill="#FFF7E7" fill-opacity="0.5"/>
+  <circle cx="186" cy="758" r="118" fill="#FFF7E7" fill-opacity="0.36"/>
+
+  <g filter="url(#shadow)">
+    <rect x="172" y="127" width="856" height="660" rx="44" fill="url(#panel)"/>
+    <rect x="172" y="127" width="856" height="660" rx="44" stroke="#FFF5E8" stroke-width="2"/>
+  </g>
+
+  <circle cx="223" cy="177" r="8" fill="#C3A17D"/>
+  <circle cx="251" cy="177" r="8" fill="#DBC1A2"/>
+  <circle cx="279" cy="177" r="8" fill="#E9D7C3"/>
+  <text x="218" y="250" fill="#2E2117" font-family="Arial, sans-serif" font-size="54" font-weight="700">Nova</text>
+  <text x="218" y="291" fill="#6E5642" font-family="Arial, sans-serif" font-size="24">Refined ecommerce experience for premium collections</text>
+
+  <rect x="218" y="332" width="330" height="378" rx="34" fill="#FEF8EF"/>
+  <rect x="218" y="332" width="330" height="378" rx="34" stroke="#E7D2BE" stroke-width="2"/>
+  <rect x="250" y="366" width="266" height="206" rx="26" fill="#ECD6BF"/>
+  <path d="M355 409C381 380 429 381 453 413C476 443 473 491 446 517C418 545 372 546 345 520C318 494 316 444 341 417L355 409Z" fill="#B8895E"/>
+  <path d="M348 515C365 492 390 477 419 472C447 467 475 474 496 492V573H250V543C271 532 293 524 316 519C327 516 338 514 348 515Z" fill="#DDBA97"/>
+  <text x="250" y="624" fill="#2E2117" font-family="Arial, sans-serif" font-size="24" font-weight="700">Signature Leather Tote</text>
+  <text x="250" y="659" fill="#8B6A4D" font-family="Arial, sans-serif" font-size="22">$240.00</text>
+  <rect x="400" y="639" width="116" height="40" rx="20" fill="#2F2117"/>
+  <text x="430" y="665" fill="#FFF8EF" font-family="Arial, sans-serif" font-size="18" font-weight="700">Add to bag</text>
+
+  <rect x="584" y="332" width="170" height="164" rx="30" fill="#FFF9F1"/>
+  <rect x="584" y="332" width="170" height="164" rx="30" stroke="#E7D2BE" stroke-width="2"/>
+  <text x="615" y="380" fill="#8B6A4D" font-family="Arial, sans-serif" font-size="18">Conversion</text>
+  <text x="615" y="433" fill="#2E2117" font-family="Arial, sans-serif" font-size="42" font-weight="700">6.4%</text>
+  <path d="M615 465H705" stroke="#D1B397" stroke-width="10" stroke-linecap="round"/>
+  <path d="M615 465H681" stroke="#2F2117" stroke-width="10" stroke-linecap="round"/>
+
+  <rect x="584" y="522" width="170" height="188" rx="30" fill="#FFF9F1"/>
+  <rect x="584" y="522" width="170" height="188" rx="30" stroke="#E7D2BE" stroke-width="2"/>
+  <text x="615" y="570" fill="#8B6A4D" font-family="Arial, sans-serif" font-size="18">Returning buyers</text>
+  <text x="615" y="623" fill="#2E2117" font-family="Arial, sans-serif" font-size="42" font-weight="700">41%</text>
+  <circle cx="664" cy="661" r="26" fill="#F0DCC7"/>
+  <circle cx="700" cy="661" r="26" fill="#DDBA97"/>
+  <circle cx="736" cy="661" r="26" fill="#B8895E"/>
+
+  <rect x="783" y="332" width="191" height="378" rx="34" fill="url(#accent)"/>
+  <path d="M859 380H902C913 380 922 389 922 400V427H832V400C832 389 841 380 852 380H859Z" stroke="#FFF3E6" stroke-width="12"/>
+  <rect x="822" y="426" width="110" height="130" rx="24" fill="#FFF5E8"/>
+  <rect x="846" y="571" width="62" height="18" rx="9" fill="#F2E4D2"/>
+  <rect x="836" y="607" width="82" height="18" rx="9" fill="#F2E4D2"/>
+  <rect x="822" y="648" width="110" height="20" rx="10" fill="#FFF5E8" fill-opacity="0.72"/>
+  <text x="824" y="744" fill="#FFF5E8" font-family="Arial, sans-serif" font-size="24" font-weight="700">Luxury storefront systems</text>
+</svg>
