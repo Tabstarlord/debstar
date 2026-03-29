@@ -17,7 +17,7 @@ export function AboutPage() {
       <section className="container-shell grid gap-10 py-16 lg:grid-cols-[320px_1fr]">
         <aside className="panel h-fit p-6">
           <div className="mx-auto flex h-28 w-28 items-center justify-center overflow-hidden rounded-full border-4 border-brand-soft bg-gradient-to-br from-amber-200 via-orange-100 to-brand-soft text-3xl font-bold text-slate-700">
-            <Image src="/logo.webp" alt="" width={40} height={40} className="h-full w-full object-contain rounded-full" />
+            <Image src="/Logo.webp" alt="Chukwuemeka Henry Izukanne logo" width={112} height={112} className="h-full w-full object-contain" />
           </div>
           <div className="mt-5 text-center">
             <h1 className="text-3xl font-bold text-ink dark:text-white">Chukwuemeka Henry Izukanne</h1>
