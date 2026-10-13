@@ -3,3 +3,12 @@ node_modules
 out
 dist
 *.log
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Generated build/cache files
+*.tsbuildinfo
+audit-report.json
